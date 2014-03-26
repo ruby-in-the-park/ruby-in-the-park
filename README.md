@@ -18,6 +18,8 @@ The first thing to agree on: Is anyone interested? What date works for you? Plea
 - Vegetarians and non vegetarians are equally welcome. Same goes for beer, favourite ruby framework and Scala or Java.
 - [insert your rule/request here as a PR]
 
+## Where?
+Somewhere in Berlin
 
 ## The why
 I like the ruby community and I like parks. I have no idea on how to organized something so I'm hoping social coding can give me a hand.
