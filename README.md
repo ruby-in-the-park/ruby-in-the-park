@@ -1,4 +1,4 @@
-![Ruby in-the-park](http://i.imgur.com/fMRgCwT.png)
+![Ruby in-the-park](https://raw.githubusercontent.com/ruby-in-the-park/ruby-in-the-park/master/logo.png)
 
 Ruby in-the-Park
 ================
