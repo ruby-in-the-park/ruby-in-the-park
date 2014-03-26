@@ -1,3 +1,5 @@
+![Ruby in-the-park](http://i.imgur.com/fMRgCwT.png)
+
 Ruby in-the-Park
 ================
 
@@ -9,7 +11,7 @@ Ruby in-the-Park
 ## The Idea
 The idea is simple: gather people together in a park some weekend, have a picnic and share. 
 
-The first thing to agree on: Is anyone interested? Please comment in [Issue #1](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/1).
+The first thing to agree on: Is anyone interested? What date works for you? Please comment in [Issue #1](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/1).
 
 ## The Rules
 - Respect is a priority.
