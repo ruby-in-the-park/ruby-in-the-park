@@ -14,7 +14,7 @@ The idea is simple: gather people together in a park some weekend, have a picnic
 The first thing to agree on: Is anyone interested? What date works for you? Please comment in [Issue #1](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/1).
 
 ## The Rules
-- Respect is a priority.
+- Respect is a priority. Fun as well.
 - Vegetarians and non vegetarians are equally welcome. Same goes for beer, favourite ruby framework and Scala or Java.
 - [insert your rule/request here as a PR]
 
