@@ -1,4 +1,4 @@
-![Ruby in-the-park](https://raw.githubusercontent.com/ruby-in-the-park/ruby-in-the-park/master/logo.png)
+![Ruby in-the-park](https://raw.githubusercontent.com/ruby-in-the-park/ruby-in-the-park/master/logo.png?ab2bf9ccd67ec744296d8a0ce66c62ac376f4e14)
 
 Ruby in-the-Park
 ================
@@ -9,7 +9,7 @@ Ruby in-the-Park
 - Because parks are awesome.
 
 ## The Idea
-The idea is simple: gather people together in a park some weekend, have a picnic and share. 
+The idea is simple: gather people together in a park some weekend, have a picnic and share.
 
 The first thing to agree on: Is anyone interested? What date works for you? Please comment in [Issue #1](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/1).
 
