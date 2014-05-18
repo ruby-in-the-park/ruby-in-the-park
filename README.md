@@ -25,7 +25,7 @@ The exact location will be updated soon.
 - [insert your rule/request here as a PR]
 
 ## The why
-I like the ruby community and I like parks. I have no idea on how to organized something so I'm hoping social coding can give me a hand.
+I like the ruby community and I like parks. I have no idea about picnic organising so I'm hoping social coding can give me a hand.
 
 ## Contact
 My twitter handle is [@eljojo](http://twitter.com/eljojo)
