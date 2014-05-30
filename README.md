@@ -17,7 +17,7 @@ There's an [iCal file](https://raw.githubusercontent.com/ruby-in-the-park/ruby-i
 Tempelhofer Feld, Berlin.
 The exact location will be updated soon.
 
-**Please check this page closer to the date of the picnic for more updates.**
+Let's continue the discussion in [#4](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/4)
 
 ## The Rules
 - Respect is a priority. Fun as well.
