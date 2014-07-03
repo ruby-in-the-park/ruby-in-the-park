@@ -9,7 +9,9 @@ Ruby in-the-Park
 - Because parks are awesome.
 
 ### When?
-There is no picnic planned yet, but the idea is to do one per month.
+The next picnic is going to be in "Park am Glesidreick" on Sunday the 6th of July.
+
+The discussion is going on in [issue #7](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/7).
 
 ### Where?
 Any park in Berlin.
@@ -17,6 +19,7 @@ Any park in Berlin.
 We've had picnics in:
 
 - [x] Tempelhofer Feld
+- [ ] Park am Glesidreick
 
 ### Previous Picnics
 
