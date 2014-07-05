@@ -10,6 +10,7 @@ Ruby in-the-Park
 
 ### When?
 The next picnic is going to be in "Park am Glesidreick" on Sunday the 6th of July.
+The time is **3:00 PM** and the exact location is: [http://goo.gl/maps/mQMVR](http://goo.gl/maps/mQMVR)
 
 The discussion is going on in [issue #7](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/7).
 
