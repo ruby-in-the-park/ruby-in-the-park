@@ -22,7 +22,7 @@ Any park in Berlin.
 We've had picnics in:
 
 - [x] Tempelhofer Feld
-- [ ] Park am Glesidreick
+- [x] Park am Glesidreick
 
 ### Previous Picnics
 
