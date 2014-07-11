@@ -9,12 +9,7 @@ Ruby in-the-Park
 - Because parks are awesome.
 
 ### When?
-The next picnic is going to be in "Park am Glesidreick" on **Sunday the 6th of July**.
-The time is **3:00 PM** and the exact location is: [http://goo.gl/maps/mQMVR](http://goo.gl/maps/mQMVR)
-
-The discussion is going on in [issue #7](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/7).
-
-![screen shot 2014-07-05 at 17 46 55](https://cloud.githubusercontent.com/assets/491230/3486952/aab86038-045b-11e4-978a-dfc00d2220d8.png)
+There is no picnic planned yet. [Suggest a new one.](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/new)
 
 ### Where?
 Any park in Berlin.
@@ -22,11 +17,12 @@ Any park in Berlin.
 We've had picnics in:
 
 - [x] Tempelhofer Feld
-- [x] Park am Glesidreick
+- [x] Park am Gleisdreick
 
 ### Previous Picnics
 
-- [June 1st](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/4)
+- [June 1st / Tempelhof](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/4)
+- [July 6st / Gleisdreick](https://github.com/ruby-in-the-park/ruby-in-the-park/issues/7)
 
 ## The Rules
 - Respect is a priority. Fun as well.
