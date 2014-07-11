@@ -18,6 +18,7 @@ We've had picnics in:
 
 - [x] Tempelhofer Feld
 - [x] Park am Gleisdreick
+- [ ] Müggelsee
 
 ### Previous Picnics
 
