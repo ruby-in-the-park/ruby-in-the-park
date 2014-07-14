@@ -18,6 +18,8 @@ We've had picnics in:
 
 - [x] Tempelhofer Feld
 - [x] Park am Gleisdreick
+
+We should have one in:
 - [ ] Britzer Garten (http://www.gruen-berlin.de/parks-gaerten/britzer-garten/uebersicht)
 
 ### Previous Picnics
